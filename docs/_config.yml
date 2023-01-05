@@ -29,9 +29,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
-remote_theme: jekyll/minima
+#remote_theme: jekyll/minima
 #minima:
-skin: auto
+#skin: auto
 #  date_format: "%b %-d, %Y"
 plugins:
   - jekyll-feed
