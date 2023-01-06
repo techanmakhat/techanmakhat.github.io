@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Be un-limited"
-date:   2022-11-28 19:00:21 +0530
-categories: jekyll update
+date:   2023-01-05 19:00:21 +0530
+categories: personality
 ---
 If you're anything like me, you might be harbouring different images of who you think you are and who you think you should be. And quite often, you try to "behave" according to these made-up images in your head. Each time you choose a specific "mask" to wear, whole other parts of you go to die.
 
