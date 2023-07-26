@@ -29,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@3cdd14d
 minima:
 skin: dark
 #  date_format: "%b %-d, %Y"
